@@ -17,6 +17,8 @@ Data and Tools for Analysis of the Messkataloge
 
 # To run the Messkataloge bokeh app:
 
+Unzip all_tokens.zip --> this will create all_tokens.csv
+
 Make sure all_tokens.csv is in the same directory as mk_app.py 
 
 In the Terminal/command line, go to that directory and run:

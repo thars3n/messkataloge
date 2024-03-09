@@ -1,4 +1,6 @@
-# Overview of the _Messkataloge_ Database
+# The Digital _Messkataloge_
+#
+# An Overview of the _Messkataloge_ Database
 by David Kretz and Jeffrey Tharsen
 
 Studies of the history of the book in the early modern German-speaking world have been greatly aided by the creation of national bibliographies, or “VD”s (_Verzeichnis der Druckerzeugnisse_). These exist in limited forms for the 16th, 17th, and 18th century; of these, only the VD for the 17th century can lay a claim to both near-comprehensiveness and digital accessibility, and no current Verzeichnis exists for the 19th century. In recent decades, however, a consortium of German libraries converted the _Messkataloge_ (the printed “book catalogs” created for the Frankfurt and Leipzig book fairs from 1594 to 1860) to microfilm, and then generated PDFs of these catalogs: 536 registers totaling 65,658 pages. 
